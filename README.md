@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./headerFinal.png)
 
 - 🔭 I’m currently working on **Student Query Driven Learning System (IIT Bombay)**
 
