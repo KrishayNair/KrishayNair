@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishay Nair</h1>
 <h3 align="center">A passionate Web developer and AI/ML Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishaynair&label=Profile%20views&color=0e75b6&style=flat" alt="krishaynair" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishaynair" alt="krishaynair" /></a> </p>
-
 - 🔭 I’m currently working on **Student Query Driven Learning System (IIT Bombay)**
 
 - 🌱 I’m currently learning **Deep Learning and MATLAB**
@@ -31,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishaynair&show_icons=true&locale=en&layout=compact" alt="krishaynair" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaynair&show_icons=true&locale=en" alt="krishaynair" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishaynair&" alt="krishaynair" /></p>
