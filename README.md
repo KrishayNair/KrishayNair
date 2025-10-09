@@ -88,11 +88,14 @@ I'm a **Computer Science Engineer** currently pursuing my **Masters in Informati
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6B6B?style=for-the-badge&logo=dataiku&logoColor=white)
 
 ### **Focus Areas**
 - **Network Engineering** | **Infrastructure Automation** | **System Reliability**
-- **Performance Optimization** | **Scalability** | **Routing & Switching**
-- **Load Balancing** | **Network Architecture** | **Distributed Systems**
+- **Data Analytics** | **Business Analytics** | **Performance Optimization**
+- **Scalability** | **Routing & Switching** | **Load Balancing**
+- **Network Architecture** | **Distributed Systems**
 
 ## 🏆 Achievements & Awards
 
