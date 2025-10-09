@@ -1,6 +1,6 @@
 # Hi there, I'm Krishay S. Nair! 👋
 
-[![Header](./header1.png)](https://krishaynair.me/)
+[![Header](./main.png)](https://krishaynair.me/)
 
 [![An image of @krishaynair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishaynair)](https://holopin.io/@krishaynair)
 
