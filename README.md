@@ -1,66 +1,148 @@
 [![Header](./main.png)](https://krishaynair.me/)
 
-[![An image of @krishaynair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishaynair)](https://holopin.io/@krishaynair)
+[![An image of @krishaynair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishaynair)](https://holopin.io/@krishayNair)
 
-## 🎯 Network Production Engineer | Systems Engineer | Full-Stack Developer
+## 🎯 Aspiring Site Reliability Engineer | Cloud & Systems Engineering | 7× Hackathon Winner
 
-I'm a **Computer Science Engineer** currently pursuing my **Masters in Information Systems** at **University College Dublin**, with expertise in **Network Engineering**, **Infrastructure Automation**, and **Distributed Systems**. I specialize in building highly scalable, reliable systems with 99%+ uptime.
+I'm a **Computer Science Engineer** currently pursuing my **Masters in Information Systems** at **University College Dublin**, with a strong focus on **Site Reliability Engineering, Cloud Infrastructure, Distributed Systems, and Infrastructure Automation**.
+
+I specialize in building **highly scalable, reliable, and fault-tolerant systems**, optimizing performance, and designing cloud-native architectures with **99%+ uptime**.
+
+📍 Dublin, County Dublin, Ireland  
+🌍 Open to global opportunities  
+
+---
 
 ## 🏫 Education
 
 **University College Dublin** | Dublin, Ireland  
 **Masters of Science in Information Systems** | Sep 2025 - Sep 2026 (Expected)  
-*Relevant Coursework: Algorithms & Data Structures, Network Systems, Distributed Systems*
+*Focus Areas: Distributed Systems, Cloud Infrastructure, Reliability Engineering*
 
-**University of Mumbai** | Mumbai, India  
-**Bachelors of Engineering in Computer Science** | Jul 2021 - Jun 2025 | **GPA: 3.36/4.0**  
-*Relevant Coursework: Computer Networks, Operating Systems, Data Structures, Algorithms, OOP*
+**MCT's Rajiv Gandhi Institute of Technology** | Mumbai, India  
+**Bachelor of Engineering in Computer Engineering** | Jun 2021 - May 2025 | **CGPA: 8.11/10**
+
+*Relevant Coursework:*  
+Machine Learning | Artificial Intelligence | Data Structures | NLP | Cloud Computing | Data Mining  
+
+---
 
 ## 💼 Professional Experience
 
-### 🔬 **Data Analytics Consultant** | Irish Student Consulting Group (ISCG)
-**Dublin, Ireland** | Sep 2025 - Present
-- Developed **automated data collection and analysis systems** using **Python scripts**, incorporating **network design** principles to process 10,000+ data points, identify patterns, and optimize business workflows with **25% efficiency improvement**
-- Analyzed **network performance metrics** and deployed **network monitoring solutions** to track system health, improving operational reliability by **30%** through data-driven insights and root cause analysis
+### 🌐 **Site Reliability Engineer Intern** | Communicore FiberInfra Pvt Ltd  
+**Mumbai Metropolitan Region, India** | May 2024 - Nov 2024
 
-### 🏛️ **Systems Engineer and Development Intern** | IIT Bombay
+- Designed and deployed **containerized microservices** using **Docker & Docker Swarm**
+- Managed scalable workloads with **Kubernetes** (services, ingress, health checks, resource limits)
+- Implemented **Istio-based traffic management** including mTLS and routing rules
+- Applied **L3/L4/L7 networking principles**, reverse proxy & load balancing
+- Streamlined **CI/CD pipelines using GitHub Actions**, reducing deployment time by **40%**
+- Improved microservices reliability, observability, and traffic routing policies
+
+---
+
+### 🔬 **Software Development & Research Intern** | Indian Institute of Technology, Bombay  
 **Mumbai, India** | Aug 2023 - Feb 2024
-- Architected and deployed **highly available distributed systems** infrastructure with **microservices architecture**, optimizing network traffic patterns and implementing load balancing to support **1000+ concurrent connections** with **99.9% uptime**
-- Built **automated monitoring and alerting systems** using **Python** to track network latency and service health, and optimized **TCP/IP** communication protocols on **UNIX-based systems**, reducing network latency by **30%** through performance tuning
 
-### 🌐 **Network Infrastructure Automation Intern** | Communicore Fiberinfra Private Limited
-**Mumbai, India** | Feb 2023 - Aug 2023
-- Engineered **automated provisioning systems for telecom network infrastructure**, implementing **Python-based deployment scripts** and workflow automation that reduced manual configuration errors by **40%**, accelerated network deployment cycles, and improved **network reliability**
-- Optimized network application performance through **latency analysis** and **traffic optimization**, achieving **30% reduction in load times** and improving system responsiveness for **500+ daily users** across fiber infrastructure management tools
+- Key contributor to **Student Query-Driven Learning (SQDL)** platform
+- Built scalable frontend architecture using **React.js**
+- Integrated real-time socket-based features
+- Conducted live usability testing with 15+ students
+- Collaborated cross-functionally to optimize system performance
+
+---
+
+### 💻 **Software Developer (SDE) Intern** | easycompany  
+Nov 2022 - Feb 2023
+
+- Built responsive web interfaces using **Next.js & Tailwind CSS**
+- Optimized UI reliability and frontend performance
+- Worked in Agile development cycles
+
+---
+
+### 📢 **LinkedIn Marketing Intern** | Scope For Change  
+Aug 2023 - Sep 2023
+
+- Improved LinkedIn presence & engagement strategy
+- Increased visibility through analytics-driven optimization
+
+---
 
 ## 🚀 Key Projects
 
-### 🎓 **Career2campus** | [Live Demo](https://campus2career.app/) | [Repository](https://github.com/KrishayNair/campus2career)
+### 🛰️ **HabitatForge – NASA Space Apps Global Nominee 2025**
+**Tech Stack:** FastAPI, LangGraph, Genetic Algorithms, 3D Visualization
+
+- Selected as **Global Nominee** at NASA International Space Apps Challenge 2025 (Dublin)
+- Built AI-powered habitat layout optimization platform
+- Integrated NASA safety compliance scoring
+- Reduced habitat design cycle from months → hours
+
+---
+
+### 🎓 **Campus2Career** | [Live Demo](https://campus2career.app/) | [Repository](https://github.com/KrishayNair/campus2career)
+
 **Tech Stack:** Next.js, PostgreSQL, Python, REST APIs, Docker, CI/CD
-- Built **highly scalable distributed platform** serving **two colleges**, implementing **automated deployment pipelines**, load balancing, database optimization, and **data center** infrastructure management
-- Designed robust API architecture handling **1000+ concurrent requests** with **99.8% uptime**
+
+- AI-powered placement preparation platform
+- Designed API architecture handling **1000+ concurrent requests**
+- Implemented automated deployment pipelines
+
+---
 
 ### ⚖️ **LegAIly** | [Live Demo](https://legaily.tech/) | [Repository](https://github.com/KrishayNair/legaily)
-**Tech Stack:** Node.js, FastAPI (Python), PostgreSQL, RESTful APIs, Microservices
-- **Legal Tech Hackathon Winner:** Architected **multi-tier distributed system** with **Python/FastAPI backend**, implementing efficient data processing pipelines, **automated workflows**, and real-time communication protocols
-- Deployed to **4 major law firms** with **99.7% system availability**
 
-### 🏛️ **DAK** | [Live Demo](https://dak-portal.vercel.app/) | [Repository](https://github.com/KrishayNair/dak-portal)
-**Tech Stack:** Next.js, Django (Python), PostgreSQL, REST APIs, Linux/UNIX
-- Deployed **nationwide scalable infrastructure** for **Government of India** serving **24 postal circles**
-- Implemented **robust network architecture** with load balancing, database replication, and **automated monitoring** to ensure **high availability** for millions of users
+**Tech Stack:** React.js, FastAPI, LLAMA 3, Supabase, Pinecone
 
-### 🏥 **AyurLeaf** | [Repository](https://github.com/KrishayNair/AyurLeaf)
-**Tech Stack:** Jupyter Notebook, Machine Learning, Python
-- AI-powered Ayurvedic leaf identification system
+- AI-powered legal assistant platform
+- Implemented document summarization, drafting & blockchain verification
+- Deployed to 4 major law firms
 
-### 👮 **NextgenPoliceComplaintSystem** | [Repository](https://github.com/KrishayNair/NextgenPoliceComplaintSystem)
-**Tech Stack:** JavaScript, Node.js, Express
-- Modern police complaint management system
+---
 
-### 🔒 **SecureClick** | [Repository](https://github.com/KrishayNair/SecureClick)
-**Tech Stack:** Jupyter Notebook, Security, Python
-- Secure authentication and click protection system
+### 🏛️ **DAK – Smart India Hackathon 2024 Winner**
+
+**Tech Stack:** Next.js, Django, PostgreSQL, Celery, Redis
+
+- Nationwide philately portal for Government of India
+- Digitized PDA process across 24 postal circles
+- Integrated dashboards & AI-driven insights
+
+---
+
+## 🧠 Research & Publication
+
+### 📄 SecureClick: Intelligent Phishing Detection System  
+Published in *International Research Journal of Engineering and Technology (IRJET), Jan 2025*
+
+- Multi-layer phishing detection
+- SSL validation & domain scoring
+- Real-time Chrome extension with WebSocket integration
+
+---
+
+## 🏆 Achievements & Awards (7× Hackathon Winner)
+
+- 🥇 Smart India Hackathon 2024 Winner  
+- 🥇 Move AI Hackathon Winner (International Level) – $13,000 Prize  
+- 🛰️ NASA Space Apps 2025 – Global Nominee  
+- 🥇 SynTechXathon 2025 Winner  
+- 🥈 Quasar 2.0 Runner-up  
+- 🏅 CRCE Best Social Impact Award  
+
+---
+
+## ☁️ Certifications
+
+- OCI 2025 Certified Generative AI Professional  
+- OCI 2025 Certified Multicloud Architect Professional  
+- OCI 2025 Certified Foundations Associate  
+- Google Cloud Skill Badge – Associate Cloud Engineer Journey  
+- Google Cloud Network Development Certification  
+- Power BI Certification  
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -73,61 +155,36 @@ I'm a **Computer Science Engineer** currently pursuing my **Masters in Informati
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Network & Systems**
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![UNIX](https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=unix&logoColor=white)
+### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6B6B?style=for-the-badge&logo=dataiku&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Focus Areas**
-- **Network Engineering** | **Infrastructure Automation** | **System Reliability**
-- **Data Analytics** | **Business Analytics** | **Performance Optimization**
-- **Scalability** | **Routing & Switching** | **Load Balancing**
-- **Network Architecture** | **Distributed Systems**
-
-## 🏆 Achievements & Awards
-
-### **Technical Excellence**
-- 🥇 **6x Hackathon Winner** including Smart India Hackathon 2024, Quasar 2.0 Runner-up, CRCE 'Best Social Impact Award'
-- 🏆 **Winner at Smart India Hackathon 2024**
-- 🌍 **Winner at Move AI Hackathon (International Level)**
-- 🎯 **Winner at SynTechXathon 2025**
-- 🏅 **Winner at Quasar 2.0**
-
-### **Leadership & Impact**
-- 👨‍💼 **President of DataMatrix** (100+ members)
-- 🎯 **Led NGO marketing** initiatives
-- 🛠️ **Organized 10+ technical workshops**
-
-### **Certifications**
-- ☁️ **Google Cloud Skill Badge** - Associate Cloud Engineer Journey
-- 🌐 **Google Cloud Network Development** Certification
-- 📊 **Power BI** Certification
-- 💻 **Codertine 3.0** Certification
+---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishaynair&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Krishay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishaynair&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishaynair&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishaynair&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishaynair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishaynair&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## 📫 Connect With Me
 
@@ -137,25 +194,12 @@ I'm a **Computer Science Engineer** currently pursuing my **Masters in Informati
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/krishay958)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/krishaynair/)
 
-## 🎯 Current Focus
-
-- 🔭 **Working on:** Student Query Driven Learning System (IIT Bombay)
-- 🌱 **Learning:** Deep Learning, MATLAB, Advanced Network Engineering
-- 🚀 **Preparing for:** Network Production Engineer roles at Meta-scale companies
-- 💬 **Ask me about:** Network Engineering, Infrastructure Automation, Distributed Systems, Python, React.js
-
-## 📄 Resume & Portfolio
-
-📄 **[View My Complete Resume](https://drive.google.com/drive/folders/1wPrcYE1YG_rEsTfsymIgcaFPlScwyQtw?usp=sharing)**  
-🌐 **[Explore My Portfolio](https://krishaynair.me/)**  
-👨‍💻 **[View All Projects](https://www.krishaynair.me/#projects)**
-
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishaynair&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=krishaynair&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <i>💡 "Building the infrastructure that connects the world, one network at a time."</i>
+  <i>💡 "Engineering reliable systems that scale — one distributed system at a time."</i>
 </p>
