@@ -1,6 +1,6 @@
 [![Header](./main.png)](https://krishaynair.me/)
 
-[![An image of @krishaynair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishaynair)](https://holopin.io/@krishayNair)
+[![An image of @krishaynair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishaynair)](https://holopin.io/@krishaynair)
 
 ## 🎯 Aspiring Site Reliability Engineer | Cloud & Systems Engineering | 7× Hackathon Winner
 
@@ -72,12 +72,14 @@ Aug 2023 - Sep 2023
 ## 🚀 Key Projects
 
 ### 🛰️ **HabitatForge – NASA Space Apps Global Nominee 2025**
-**Tech Stack:** FastAPI, LangGraph, Genetic Algorithms, 3D Visualization
+**Live Demo:** https://www.habitatforge.earth/  
+**Tech Stack:** FastAPI, LangGraph, Genetic Algorithms, 3D Visualization  
 
 - Selected as **Global Nominee** at NASA International Space Apps Challenge 2025 (Dublin)
 - Built AI-powered habitat layout optimization platform
 - Integrated NASA safety compliance scoring
-- Reduced habitat design cycle from months → hours
+- Reduced habitat design cycle from months → hours via automation
+- Implemented 2D planning + 3D real-time visualization
 
 ---
 
